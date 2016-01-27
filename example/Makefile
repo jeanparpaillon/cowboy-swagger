@@ -1,4 +1,4 @@
-PROJECT = example
+gPROJECT = example
 
 DEPS = cowboy_swagger mixer
 
